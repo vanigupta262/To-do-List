@@ -33,6 +33,30 @@
     /* this margin is between text and img */
     margin-left: 10px;
 }
+.headings{
+    display: flex;
+}
+.headings h3{
+    right: 0;
+    position: relative;
+    margin-bottom: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+/* .headings h3,p{
+    display: inline;
+    /* margin-bottom: 20px; 
+} */
+.headings p{
+    margin-left: 270px;
+    color: #ff5945;
+    margin-bottom: 20px;
+
+}
+
+
+
+
 .row{
     align-items: center;
     display: flex;
